@@ -1,0 +1,21 @@
+
+
+export default function About() {
+    return (
+        <div>
+            <h1>About</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas aliquid 
+                 explicabo maiores eum. Quo quae illo cumque quisquam, ullam veniam odio vero eius laborum, 
+                 nulla aliquid? Blanditiis ea cupiditate quam corrupti dolorem voluptatem, nisi, ipsam enim earum 
+                 dolor nam molestias consequuntur similique porro exercitationem quos aut debitis, autem itaque incidunt
+                  provident architecto odit ipsum soluta. Qui quibusdam est dolorum minima provident, esse placeat corrupti 
+                  tempora accusantium ex, illum architecto aperiam omnis rerum vero dolor repudiandae corporis. Cum qui in pariatur
+                   sapiente ex veritatis, corrupti quisquam atque, amet beatae voluptate, aperiam omnis magni iusto. Nemo corporis 
+                   iure iusto, sint voluptatem ab officia. Autem, at voluptatum! Atque, cumque eveniet. Numquam quibusdam temporibus, 
+                   dolor deserunt vitae odit consectetur deleniti voluptatibus sint, quam dolores, dicta sequi reiciendis repellat nulla 
+                   praesentium! Id fugiat cupiditate qui repudiandae, ducimus accusamus? Exercitationem alias in ipsa magni eius nobis non 
+                   dignissimos vitae? Assumenda ratione voluptates laborum ipsam rerum aperiam soluta totam suscipit magnam fuga voluptate 
+                   voluptas iste accusamus aliquam ipsa asperiores illo quaerat nisi facilis dolor tempore, maxime, hic dicta? Natus quam earum enim neque expedita culpa consequatur iste eligendi, recusandae deleniti, cum esse magni sed! Aut aliquam, molestias sapiente architecto quaerat tenetur nemo dolores in excepturi deserunt, qui culpa! Magnam expedita architecto iusto velit dolore cum nesciunt obcaecati exercitationem labore ipsam voluptatem voluptatum quas reiciendis perspiciatis dolor molestias, nam non minima hic voluptate. Blanditiis corporis libero dolorem, expedita autem incidunt. At repudiandae assumenda laudantium. Dolorum, ab! Quidem porro labore dolor obcaecati at magni laborum mollitia, molestiae enim minima tenetur. Perspiciatis magni nesciunt assumenda, et sapiente maiores nobis repellat atque sequi necessitatibus! Sunt officia ipsam cum, explicabo distinctio nobis culpa temporibus delectus placeat quam optio cupiditate tempora molestiae, tempore nihil! Accusamus qui molestias ratione nihil, ullam deleniti mollitia fugiat at aliquid obcaecati maiores dolor temporibus sit. Nesciunt consequatur voluptatibus, dolorem vel non fuga animi dolore, modi ipsam distinctio officia id ullam hic ab, magni perspiciatis quis mollitia odit consectetur quibusdam. Ducimus, rerum? Fuga fugit mollitia iusto consequuntur aliquid magnam, pariatur blanditiis doloribus exercitationem quidem temporibus, aliquam commodi a architecto sit ea expedita vel necessitatibus officiis incidunt quas veritatis? Optio ullam assumenda a magni quos officia vero rem sit, accusantium dignissimos praesentium deserunt minus perspiciatis repudiandae accusamus obcaecati aliquam repellat eaque eum commodi! Debitis ipsa consequuntur, aspernatur aliquam explicabo ullam modi dolore distinctio fuga. Dicta vel eum officiis amet nemo consequatur at expedita aspernatur tenetur et sit porro cumque veritatis assumenda nam, incidunt recusandae eos culpa, distinctio tempora mollitia quod exercitationem. Esse harum, iure modi ipsa autem veniam assumenda porro ut aliquid omnis fugiat maiores molestias voluptas adipisci! Velit, sit voluptatem? Eum vero itaque eos iste et minus modi culpa magnam ullam, sunt quas animi distinctio quod molestiae nemo, voluptate dolores! Vero placeat consequuntur ab eum, fugiat dignissimos molestias iusto quod illum aut similique possimus ipsam velit tempora quos deleniti doloribus ea, dolor libero laborum, quidem ullam reiciendis? Aut eveniet labore ex delectus eligendi quam quidem eaque nostrum sapiente iure, accusantium veniam, modi atque officia molestias odit omnis! Sunt.</p>
+        </div>
+    )
+}

@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+h4 {
+  font-style: italic;
+  text-align: right;
+}
+
+p {
+  justify-content: baseline;
+  font-style: oblique;
+}
